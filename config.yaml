@@ -1,0 +1,108 @@
+# Focus-Stacking Pipeline Configuration
+# Optimized for Raspberry Pi HQ Camera and Photogrammetry
+
+# Input/Output Settings
+input:
+  format: "tiff" # or "raw", "jpg", "png"
+  directory: "./input_images"
+  pattern: "*.tiff" # File pattern to match
+
+output:
+  directory: "./output_stacks"
+  format: "tiff" # Output format for stacked images
+  quality: 95 # For lossy formats
+  compression: "lzw" # For TIFF compression
+
+# Camera Settings (Raspberry Pi HQ Camera)
+camera:
+  sensor_size: [4056, 3040] # HQ Camera sensor dimensions
+  pixel_size: 1.55 # microns
+  bit_depth: 12 # or 10, 8 depending on capture mode
+
+# Focus-Stacking Algorithm Settings
+focus_stacking:
+  method: "laplacian" # Options: "laplacian", "sobel", "variance", "tenengrad"
+  kernel_size: 3 # Laplacian kernel size
+  threshold: 0.01 # Minimum sharpness threshold
+  blend_mode: "weighted" # Options: "weighted", "max", "average"
+
+  # Alignment settings (critical for photogrammetry)
+  alignment:
+    method: "ecc" # Enhanced Correlation Coefficient
+    max_iterations: 50
+    epsilon: 1e-6
+    warp_mode: "euclidean" # Preserves geometric accuracy
+
+  # Quality control
+  quality_control:
+    min_sharpness: 0.1
+    max_shift: 50 # Maximum pixel shift between images
+    outlier_rejection: true
+    confidence_threshold: 0.8
+
+# Processing Settings
+processing:
+  batch_size: 10 # Process images in batches to manage memory
+  parallel_workers: 4 # Number of parallel processes
+  memory_limit_gb: 8 # Memory limit for processing
+
+  # Preprocessing
+  preprocessing:
+    denoise: true
+    denoise_strength: 0.1
+    normalize: true
+    equalize_histogram: false # Can affect photogrammetry features
+
+  # Post-processing
+  postprocessing:
+    sharpen: false # Avoid artificial sharpening for photogrammetry
+    color_correction: true
+    lens_correction: true
+
+# Photogrammetry Integration
+photogrammetry:
+  # COLMAP integration settings
+  colmap:
+    feature_type: "sift" # or "surf", "orb"
+    max_features: 8192
+    quality: "high" # Options: "low", "medium", "high", "extreme"
+
+  # Output preparation
+  output_prep:
+    resize_factor: 1.0 # Scale factor for photogrammetry
+    format: "tiff"
+    compression: "lzw"
+    metadata: true # Preserve camera metadata
+
+# Logging and Monitoring
+logging:
+  level: "INFO" # DEBUG, INFO, WARNING, ERROR
+  file: "focus_stack.log"
+  console_output: true
+
+# Performance Settings
+performance:
+  use_gpu: false # Set to true if CUDA available
+  cache_intermediate: true
+  cleanup_temp: true
+
+  # Remote processing settings
+  remote_processing:
+    enabled: false # Enable to use remote machine
+    remote_host: "192.168.1.100" # IP of your powerful machine
+    remote_user: "user"
+    remote_path: "/home/user/focus-stacking-pipeline"
+    ssh_key_path: "~/.ssh/id_rsa"
+
+  # GPU settings (for CUDA-enabled machines)
+  gpu:
+    device_id: 0 # GPU device to use
+    memory_fraction: 0.8 # Fraction of GPU memory to use
+    precision: "float32" # float16 for speed, float32 for accuracy
+
+  # Distributed processing
+  distributed:
+    enabled: false # Enable multi-machine processing
+    master_host: "192.168.1.100"
+    worker_hosts: ["192.168.1.101", "192.168.1.102"]
+    chunk_size: 50 # Images per worker

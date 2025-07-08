@@ -1,0 +1,16 @@
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78  # For CUDA support
+numpy==1.24.3
+Pillow==10.0.1
+scikit-image==0.21.0
+scipy==1.11.1
+matplotlib==3.7.2
+tqdm==4.66.1
+click==8.1.7
+pyyaml==6.0.1
+rawpy==0.17.0
+imageio==2.31.5
+imageio-ffmpeg==0.4.9
+paramiko==3.3.1  # For SSH remote processing
+psutil==5.9.5  # For system monitoring
+seaborn==0.12.2  # For enhanced plotting 
