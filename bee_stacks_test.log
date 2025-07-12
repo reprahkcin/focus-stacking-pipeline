@@ -1,0 +1,1553 @@
+2025-07-11 18:25:39,050 - INFO - Loading 36 images...
+2025-07-11 18:25:42,302 - ERROR - Failed to load image: test files\bee mouth parts 01_1\bee mouth parts 0136.jpg
+2025-07-11 18:25:42,344 - INFO - Loading 50 images...
+2025-07-11 18:25:46,895 - INFO - Processing 50 images for focus stacking
+2025-07-11 18:25:46,895 - INFO - Aligning images...
+2025-07-11 18:25:47,376 - WARNING - Alignment failed for image 1: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,393 - WARNING - Alignment failed for image 2: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,412 - WARNING - Alignment failed for image 3: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,428 - WARNING - Alignment failed for image 4: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,443 - WARNING - Alignment failed for image 5: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,457 - WARNING - Alignment failed for image 6: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,469 - WARNING - Alignment failed for image 7: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,480 - WARNING - Alignment failed for image 8: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,492 - WARNING - Alignment failed for image 9: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,503 - WARNING - Alignment failed for image 10: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,513 - WARNING - Alignment failed for image 11: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,523 - WARNING - Alignment failed for image 12: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,533 - WARNING - Alignment failed for image 13: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,543 - WARNING - Alignment failed for image 14: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,553 - WARNING - Alignment failed for image 15: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,562 - WARNING - Alignment failed for image 16: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,571 - WARNING - Alignment failed for image 17: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,580 - WARNING - Alignment failed for image 18: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,590 - WARNING - Alignment failed for image 19: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,600 - WARNING - Alignment failed for image 20: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,610 - WARNING - Alignment failed for image 21: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,620 - WARNING - Alignment failed for image 22: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,631 - WARNING - Alignment failed for image 23: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,641 - WARNING - Alignment failed for image 24: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,651 - WARNING - Alignment failed for image 25: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,660 - WARNING - Alignment failed for image 26: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,669 - WARNING - Alignment failed for image 27: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,679 - WARNING - Alignment failed for image 28: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,690 - WARNING - Alignment failed for image 29: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,699 - WARNING - Alignment failed for image 30: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,711 - WARNING - Alignment failed for image 31: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,720 - WARNING - Alignment failed for image 32: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,730 - WARNING - Alignment failed for image 33: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,741 - WARNING - Alignment failed for image 34: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,751 - WARNING - Alignment failed for image 35: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,761 - WARNING - Alignment failed for image 36: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,772 - WARNING - Alignment failed for image 37: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,781 - WARNING - Alignment failed for image 38: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,791 - WARNING - Alignment failed for image 39: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,802 - WARNING - Alignment failed for image 40: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,811 - WARNING - Alignment failed for image 41: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,821 - WARNING - Alignment failed for image 42: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,831 - WARNING - Alignment failed for image 43: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,841 - WARNING - Alignment failed for image 44: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,849 - WARNING - Alignment failed for image 45: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,859 - WARNING - Alignment failed for image 46: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,869 - WARNING - Alignment failed for image 47: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,878 - WARNING - Alignment failed for image 48: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,888 - WARNING - Alignment failed for image 49: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:25:47,890 - INFO - Calculating sharpness maps...
+2025-07-11 18:25:56,649 - INFO - Creating focus stack...
+2025-07-11 18:26:16,317 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_02_1_stacked.tiff
+2025-07-11 18:27:13,799 - INFO - Loading 36 images...
+2025-07-11 18:27:16,437 - ERROR - Failed to load image: test files\bee mouth parts 01_1\bee mouth parts 0136.jpg
+2025-07-11 18:27:16,481 - INFO - Loading 50 images...
+2025-07-11 18:27:20,060 - INFO - Processing 50 images for focus stacking
+2025-07-11 18:27:20,060 - INFO - Aligning images...
+2025-07-11 18:27:20,069 - ERROR - Error processing image set: module 'cv2' has no attribute 'TermCriteria'
+2025-07-11 18:29:08,596 - INFO - Loading 35 images...
+2025-07-11 18:29:11,268 - INFO - Processing 35 images for focus stacking
+2025-07-11 18:29:11,269 - INFO - Aligning images...
+2025-07-11 18:29:11,574 - WARNING - Alignment failed for image 1: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,587 - WARNING - Alignment failed for image 2: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,602 - WARNING - Alignment failed for image 3: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,615 - WARNING - Alignment failed for image 4: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,629 - WARNING - Alignment failed for image 5: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,642 - WARNING - Alignment failed for image 6: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,654 - WARNING - Alignment failed for image 7: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,665 - WARNING - Alignment failed for image 8: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,676 - WARNING - Alignment failed for image 9: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,685 - WARNING - Alignment failed for image 10: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,695 - WARNING - Alignment failed for image 11: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,704 - WARNING - Alignment failed for image 12: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,713 - WARNING - Alignment failed for image 13: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,723 - WARNING - Alignment failed for image 14: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,732 - WARNING - Alignment failed for image 15: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,743 - WARNING - Alignment failed for image 16: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,755 - WARNING - Alignment failed for image 17: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,764 - WARNING - Alignment failed for image 18: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,773 - WARNING - Alignment failed for image 19: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,781 - WARNING - Alignment failed for image 20: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,790 - WARNING - Alignment failed for image 21: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,799 - WARNING - Alignment failed for image 22: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,806 - WARNING - Alignment failed for image 23: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,815 - WARNING - Alignment failed for image 24: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,825 - WARNING - Alignment failed for image 25: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,833 - WARNING - Alignment failed for image 26: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,841 - WARNING - Alignment failed for image 27: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,848 - WARNING - Alignment failed for image 28: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,857 - WARNING - Alignment failed for image 29: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,865 - WARNING - Alignment failed for image 30: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,872 - WARNING - Alignment failed for image 31: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,880 - WARNING - Alignment failed for image 32: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,888 - WARNING - Alignment failed for image 33: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,896 - WARNING - Alignment failed for image 34: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:11,898 - INFO - Calculating sharpness maps...
+2025-07-11 18:29:17,972 - INFO - Creating focus stack...
+2025-07-11 18:29:31,777 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_01_1_stacked.tiff
+2025-07-11 18:29:31,810 - INFO - Loading 50 images...
+2025-07-11 18:29:35,477 - INFO - Processing 50 images for focus stacking
+2025-07-11 18:29:35,477 - INFO - Aligning images...
+2025-07-11 18:29:35,504 - WARNING - Alignment failed for image 1: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,527 - WARNING - Alignment failed for image 2: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,553 - WARNING - Alignment failed for image 3: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,579 - WARNING - Alignment failed for image 4: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,603 - WARNING - Alignment failed for image 5: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,630 - WARNING - Alignment failed for image 6: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,651 - WARNING - Alignment failed for image 7: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,673 - WARNING - Alignment failed for image 8: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,698 - WARNING - Alignment failed for image 9: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,722 - WARNING - Alignment failed for image 10: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,747 - WARNING - Alignment failed for image 11: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,769 - WARNING - Alignment failed for image 12: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,796 - WARNING - Alignment failed for image 13: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,818 - WARNING - Alignment failed for image 14: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,839 - WARNING - Alignment failed for image 15: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,862 - WARNING - Alignment failed for image 16: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,885 - WARNING - Alignment failed for image 17: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,905 - WARNING - Alignment failed for image 18: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,929 - WARNING - Alignment failed for image 19: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,954 - WARNING - Alignment failed for image 20: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,978 - WARNING - Alignment failed for image 21: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:35,998 - WARNING - Alignment failed for image 22: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,015 - WARNING - Alignment failed for image 23: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,034 - WARNING - Alignment failed for image 24: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,052 - WARNING - Alignment failed for image 25: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,070 - WARNING - Alignment failed for image 26: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,088 - WARNING - Alignment failed for image 27: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,113 - WARNING - Alignment failed for image 28: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,133 - WARNING - Alignment failed for image 29: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,154 - WARNING - Alignment failed for image 30: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,175 - WARNING - Alignment failed for image 31: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,197 - WARNING - Alignment failed for image 32: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,218 - WARNING - Alignment failed for image 33: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,240 - WARNING - Alignment failed for image 34: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,262 - WARNING - Alignment failed for image 35: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,283 - WARNING - Alignment failed for image 36: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,302 - WARNING - Alignment failed for image 37: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,322 - WARNING - Alignment failed for image 38: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,345 - WARNING - Alignment failed for image 39: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,366 - WARNING - Alignment failed for image 40: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,386 - WARNING - Alignment failed for image 41: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,407 - WARNING - Alignment failed for image 42: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,425 - WARNING - Alignment failed for image 43: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,438 - WARNING - Alignment failed for image 44: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,452 - WARNING - Alignment failed for image 45: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,465 - WARNING - Alignment failed for image 46: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,479 - WARNING - Alignment failed for image 47: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,494 - WARNING - Alignment failed for image 48: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,507 - WARNING - Alignment failed for image 49: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() takes at most 6 arguments (7 given)
+
+2025-07-11 18:29:36,509 - INFO - Calculating sharpness maps...
+2025-07-11 18:29:45,274 - INFO - Creating focus stack...
+2025-07-11 18:30:04,710 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_02_1_stacked.tiff
+2025-07-11 18:43:18,068 - INFO - Loading 35 images...
+2025-07-11 18:43:20,817 - INFO - Processing 35 images for focus stacking
+2025-07-11 18:43:20,818 - INFO - Aligning images...
+2025-07-11 18:43:21,117 - WARNING - Alignment failed for image 1: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,138 - WARNING - Alignment failed for image 2: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,157 - WARNING - Alignment failed for image 3: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,176 - WARNING - Alignment failed for image 4: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,195 - WARNING - Alignment failed for image 5: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,212 - WARNING - Alignment failed for image 6: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,229 - WARNING - Alignment failed for image 7: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,245 - WARNING - Alignment failed for image 8: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,262 - WARNING - Alignment failed for image 9: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,279 - WARNING - Alignment failed for image 10: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,295 - WARNING - Alignment failed for image 11: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,311 - WARNING - Alignment failed for image 12: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,329 - WARNING - Alignment failed for image 13: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,346 - WARNING - Alignment failed for image 14: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,363 - WARNING - Alignment failed for image 15: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,380 - WARNING - Alignment failed for image 16: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,397 - WARNING - Alignment failed for image 17: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,414 - WARNING - Alignment failed for image 18: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,430 - WARNING - Alignment failed for image 19: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,446 - WARNING - Alignment failed for image 20: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,462 - WARNING - Alignment failed for image 21: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,479 - WARNING - Alignment failed for image 22: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,496 - WARNING - Alignment failed for image 23: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,513 - WARNING - Alignment failed for image 24: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,530 - WARNING - Alignment failed for image 25: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,547 - WARNING - Alignment failed for image 26: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,563 - WARNING - Alignment failed for image 27: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,578 - WARNING - Alignment failed for image 28: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,596 - WARNING - Alignment failed for image 29: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,612 - WARNING - Alignment failed for image 30: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,639 - WARNING - Alignment failed for image 31: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,658 - WARNING - Alignment failed for image 32: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,675 - WARNING - Alignment failed for image 33: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,693 - WARNING - Alignment failed for image 34: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:21,696 - INFO - Calculating sharpness maps...
+2025-07-11 18:43:27,770 - INFO - Creating focus stack...
+2025-07-11 18:43:41,420 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_01_1_stacked.tiff
+2025-07-11 18:43:41,462 - INFO - Loading 50 images...
+2025-07-11 18:43:45,115 - INFO - Processing 50 images for focus stacking
+2025-07-11 18:43:45,115 - INFO - Aligning images...
+2025-07-11 18:43:45,152 - WARNING - Alignment failed for image 1: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,188 - WARNING - Alignment failed for image 2: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,230 - WARNING - Alignment failed for image 3: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,269 - WARNING - Alignment failed for image 4: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,305 - WARNING - Alignment failed for image 5: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,341 - WARNING - Alignment failed for image 6: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,377 - WARNING - Alignment failed for image 7: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,414 - WARNING - Alignment failed for image 8: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,451 - WARNING - Alignment failed for image 9: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,488 - WARNING - Alignment failed for image 10: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,528 - WARNING - Alignment failed for image 11: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,568 - WARNING - Alignment failed for image 12: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,612 - WARNING - Alignment failed for image 13: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,652 - WARNING - Alignment failed for image 14: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,692 - WARNING - Alignment failed for image 15: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,731 - WARNING - Alignment failed for image 16: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,768 - WARNING - Alignment failed for image 17: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,808 - WARNING - Alignment failed for image 18: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,852 - WARNING - Alignment failed for image 19: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,896 - WARNING - Alignment failed for image 20: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,935 - WARNING - Alignment failed for image 21: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:45,973 - WARNING - Alignment failed for image 22: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,003 - WARNING - Alignment failed for image 23: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,032 - WARNING - Alignment failed for image 24: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,058 - WARNING - Alignment failed for image 25: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,085 - WARNING - Alignment failed for image 26: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,112 - WARNING - Alignment failed for image 27: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,136 - WARNING - Alignment failed for image 28: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,156 - WARNING - Alignment failed for image 29: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,182 - WARNING - Alignment failed for image 30: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,206 - WARNING - Alignment failed for image 31: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,232 - WARNING - Alignment failed for image 32: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,257 - WARNING - Alignment failed for image 33: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,284 - WARNING - Alignment failed for image 34: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,310 - WARNING - Alignment failed for image 35: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,338 - WARNING - Alignment failed for image 36: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,368 - WARNING - Alignment failed for image 37: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,395 - WARNING - Alignment failed for image 38: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,424 - WARNING - Alignment failed for image 39: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,455 - WARNING - Alignment failed for image 40: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,484 - WARNING - Alignment failed for image 41: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,512 - WARNING - Alignment failed for image 42: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,538 - WARNING - Alignment failed for image 43: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,564 - WARNING - Alignment failed for image 44: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,587 - WARNING - Alignment failed for image 45: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,610 - WARNING - Alignment failed for image 46: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,633 - WARNING - Alignment failed for image 47: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,655 - WARNING - Alignment failed for image 48: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,682 - WARNING - Alignment failed for image 49: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'findTransformECC'
+> Overload resolution failed:
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+>  - findTransformECC() missing required argument 'inputMask' (pos 6)
+>  - Argument ''criteria' epsilon' can not be treated as a double
+
+2025-07-11 18:43:46,685 - INFO - Calculating sharpness maps...
+2025-07-11 18:43:55,349 - INFO - Creating focus stack...
+2025-07-11 18:44:14,478 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_02_1_stacked.tiff
+2025-07-11 18:44:40,210 - INFO - Loading 35 images...
+2025-07-11 18:44:42,896 - INFO - Processing 35 images for focus stacking
+2025-07-11 18:44:42,896 - INFO - Calculating sharpness maps...
+2025-07-11 18:44:49,054 - INFO - Creating focus stack...
+2025-07-11 18:45:02,690 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_01_1_stacked_noalign.tiff
+2025-07-11 18:45:02,742 - INFO - Loading 50 images...
+2025-07-11 18:45:06,348 - INFO - Processing 50 images for focus stacking
+2025-07-11 18:45:06,349 - INFO - Calculating sharpness maps...
+2025-07-11 18:45:14,918 - INFO - Creating focus stack...
+2025-07-11 18:45:33,841 - INFO - Focus stack saved to: output_bee_stacks\bee_mouth_parts_02_1_stacked_noalign.tiff

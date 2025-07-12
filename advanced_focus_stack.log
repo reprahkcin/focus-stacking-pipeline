@@ -1,0 +1,8 @@
+2025-07-11 18:47:27,731 - INFO - Loading 35 aligned images...
+2025-07-11 18:47:31,932 - INFO - Processing 35 images with advanced focus stacking
+2025-07-11 18:48:13,273 - INFO - Creating focus stack using maximum sharpness selection
+2025-07-11 18:48:26,317 - INFO - Advanced focus stack saved to: output_advanced_focus_stacks\bee_mouth_parts_01_1_advanced_stacked.tiff
+2025-07-11 18:48:26,375 - INFO - Loading 50 aligned images...
+2025-07-11 18:48:31,862 - INFO - Processing 50 images with advanced focus stacking
+2025-07-11 18:49:23,410 - INFO - Creating focus stack using maximum sharpness selection
+2025-07-11 18:49:35,468 - INFO - Advanced focus stack saved to: output_advanced_focus_stacks\bee_mouth_parts_02_1_advanced_stacked.tiff

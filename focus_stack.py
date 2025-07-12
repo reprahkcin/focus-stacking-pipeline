@@ -39,7 +39,12 @@ class FocusStacker:
     def __init__(self, config_path: str = "config.yaml"):
         """Initialize the focus stacker with configuration"""
         self.config = self._load_config(config_path)
-        self.focus_config = FocusStackConfig(**self.config['focus_stacking'])
+        # Only pass relevant keys to FocusStackConfig
+        focus_stacking_cfg = self.config['focus_stacking']
+        fs_fields = set(FocusStackConfig.__dataclass_fields__.keys())
+        filtered_cfg = {k: v for k,
+                        v in focus_stacking_cfg.items() if k in fs_fields}
+        self.focus_config = FocusStackConfig(**filtered_cfg)
         self._setup_logging()
 
     def _load_config(self, config_path: str) -> Dict[str, Any]:
@@ -130,16 +135,35 @@ class FocusStacker:
             warp_matrix = np.eye(2, 3, dtype=np.float32)
 
             # Define termination criteria
-            criteria = (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT,
-                        self.config['focus_stacking']['alignment']['max_iterations'],
-                        self.config['focus_stacking']['alignment']['epsilon'])
+            criteria = (
+                cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT,
+                self.config['focus_stacking']['alignment']['max_iterations'],
+                self.config['focus_stacking']['alignment']['epsilon']
+            )
 
             try:
-                # Find transformation matrix
-                _, warp_matrix = cv2.findTransformECC(
-                    ref_gray, img_gray, warp_matrix,
-                    cv2.MOTION_EUCLIDEAN, criteria
-                )
+                # Find transformation matrix - handle different OpenCV versions
+                cv_version = cv2.__version__
+                if cv_version >= "4.12.0":
+                    # Try newer API first
+                    try:
+                        _, warp_matrix = cv2.findTransformECC(
+                            ref_gray, img_gray, warp_matrix,
+                            cv2.MOTION_EUCLIDEAN, criteria,
+                            inputMask=None, gaussFiltSize=5
+                        )
+                    except cv2.error:
+                        # Fallback to older API
+                        _, warp_matrix = cv2.findTransformECC(
+                            ref_gray, img_gray, warp_matrix,
+                            cv2.MOTION_EUCLIDEAN, criteria
+                        )
+                else:
+                    # Use older API for pre-4.12 versions
+                    _, warp_matrix = cv2.findTransformECC(
+                        ref_gray, img_gray, warp_matrix,
+                        cv2.MOTION_EUCLIDEAN, criteria
+                    )
 
                 # Apply transformation
                 aligned = cv2.warpAffine(
@@ -236,6 +260,42 @@ class FocusStacker:
 
             # Create focus stack
             stacked, confidence = self.create_focus_stack(images, align=True)
+
+            # Save results
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            cv2.imwrite(str(output_path), stacked)
+
+            if save_confidence:
+                confidence_path = output_path.with_suffix('.confidence.tiff')
+                cv2.imwrite(str(confidence_path),
+                            (confidence * 255).astype(np.uint8))
+
+            self.logger.info(f"Focus stack saved to: {output_path}")
+            return True
+
+        except Exception as e:
+            self.logger.error(f"Error processing image set: {e}")
+            return False
+
+    def process_image_set_noalign(self, image_paths: List[Path],
+                                  output_path: Path,
+                                  save_confidence: bool = True) -> bool:
+        """
+        Process a set of images and save the focus-stacked result without alignment
+        """
+        try:
+            # Load images
+            self.logger.info(f"Loading {len(image_paths)} images...")
+            images = []
+            for path in tqdm(image_paths, desc="Loading images"):
+                img = cv2.imread(str(path))
+                if img is None:
+                    self.logger.error(f"Failed to load image: {path}")
+                    return False
+                images.append(img)
+
+            # Create focus stack without alignment
+            stacked, confidence = self.create_focus_stack(images, align=False)
 
             # Save results
             output_path.parent.mkdir(parents=True, exist_ok=True)
